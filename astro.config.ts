@@ -52,7 +52,7 @@ export default defineConfig({
 	},
 	// https://docs.astro.build/en/guides/prefetch/
 	prefetch: true,
-	site: "https://beerylab.csail.mit.edu",
+	site: "https://elenagsierra.github.io/mitbeerylab.github.io/",
 	vite: {
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
